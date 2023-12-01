@@ -28,10 +28,11 @@
 [iTab](https://go.itab.link)
 [网易云音乐](https://music.163.com)
 [YesPlayMusic](https://yesplaymusic.yunyuwu.cn/)
+[Bilibili](https://space.bilibili.com/346300639)
+
 
 # 我的成就栏：
 
-[![sybedhjdbwg's Bilibili stats](https://stats.justsong.cn/api/bilibili/?id=346300639)](https://space.bilibili.com/346300639)
 <br/>
 [我的弥笃本](_posts/2022-5-28-midu.md "弥笃") <br/>
 
