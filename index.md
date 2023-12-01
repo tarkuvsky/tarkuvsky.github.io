@@ -5,7 +5,7 @@
 *主页的大图:* <br/>
 <img align="right" src="_posts/photos/1.jpg"/> <br/>
 我的工具箱： <br/>
-[文本派](https://txtpad.cn/RDGIUJefiscscscsbsu28932)
+[消息](https://txtpad.cn/RDGIUJefiscscscsbsu28932)
 [新闻](https://tophub.today/ "新闻") 
 [文本派](https://txtpad.cn)
 [临时邮箱1](http://24mail.chacuo.net)
